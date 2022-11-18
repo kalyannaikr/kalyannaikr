@@ -1,0 +1,5 @@
+- 👋 Hi, I am Technical Recruiter  
+- 👀 I’m interested in helping people to get best jobs 
+- 🌱 I’m currently learning Machine Learning
+- 💞️ I’m looking to collaborate on recruitement and building with talented developers
+- 📫 How to reach me : kalyan.naik@experis.com, Linkedin: linkedin.com/in/kalyannaik
